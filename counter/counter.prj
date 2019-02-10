@@ -1,0 +1,3 @@
+verilog work "edge_dff.v"
+verilog work "T_FF.v"
+verilog work "counter.v"

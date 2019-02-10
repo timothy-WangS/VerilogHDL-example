@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/program/Verilog/VerilogHDLexp/counter/edge_dff.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module edge_dff
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/program/Verilog/VerilogHDLexp/counter/T_FF.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module T_FF
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/program/Verilog/VerilogHDLexp/counter/counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/program/Verilog/VerilogHDLexp/counter/stimulus.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module stimulus
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/program/Verilog/VerilogHDLexp/counter/counter/counter.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

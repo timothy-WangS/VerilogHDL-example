@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "F:/program/Verilog/VerilogHDLexp/calc/calc.xst" -ofn "F:/program/Verilog/VerilogHDLexp/calc/calc.syr" 
+xst -intstyle ise -ifn "F:/program/Verilog/VerilogHDLexp/calc/calc.xst" -ofn "F:/program/Verilog/VerilogHDLexp/calc/calc.syr" 

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/program/Verilog/VerilogHDLexp/vote/vote.srcs/sources_1/new/3_votes.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tri_votes
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/program/Verilog/VerilogHDLexp/vote/vote.srcs/sim_1/new/sim_votes.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sim_votes

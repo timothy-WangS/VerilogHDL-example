@@ -1,0 +1,6 @@
+calc: 简单的verilog运算语句
+counter：4位计数器
+decode38：38译码器
+full_add：全加器
+one_led：开关按下点亮，松开熄灭的灯
+vote：多数表决器

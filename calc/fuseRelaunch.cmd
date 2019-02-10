@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "F:/program/Verilog/VerilogHDLexp/calc/calc_sim_isim_beh.exe" -prj "F:/program/Verilog/VerilogHDLexp/calc/calc_sim_beh.prj" "work.calc_sim" "work.glbl" 

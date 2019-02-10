@@ -1,0 +1,4 @@
+verilog work "fulladd.v"
+verilog work "fulladd4.v"
+verilog work "stimulus.v"
+verilog work "E:/ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v"

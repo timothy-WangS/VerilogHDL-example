@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "F:/program/Verilog/VerilogHDLexp/full_add/fulladd4.xst" -ofn "F:/program/Verilog/VerilogHDLexp/full_add/fulladd4.syr" 
+xst -intstyle ise -ifn "F:/program/Verilog/VerilogHDLexp/full_add/fulladd4.xst" -ofn "F:/program/Verilog/VerilogHDLexp/full_add/fulladd4.syr" 
+xst -intstyle ise -ifn "F:/program/Verilog/VerilogHDLexp/full_add/fulladd4.xst" -ofn "F:/program/Verilog/VerilogHDLexp/full_add/fulladd4.syr" 
+xst -intstyle ise -ifn "F:/program/Verilog/VerilogHDLexp/full_add/fulladd4.xst" -ofn "F:/program/Verilog/VerilogHDLexp/full_add/fulladd4.syr" 
